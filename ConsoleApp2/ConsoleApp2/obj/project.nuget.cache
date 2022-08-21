@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQ2+hiUpRB69Ap06RlAjE6+swCDvOdvhMzCkuGPSrHg5nFs7YbgJ9kLXZKNWudo4dFpa/xro2JNYYo15U0EZuA==",
+  "success": true,
+  "projectFilePath": "D:\\Troon-Projects\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\usman\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\usman\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\usman\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
